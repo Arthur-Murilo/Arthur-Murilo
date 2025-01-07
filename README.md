@@ -12,7 +12,7 @@
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div><br/>
 
-![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=devSants&show_icons=true&theme=radical)
+![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSants&layout=compact)
 
