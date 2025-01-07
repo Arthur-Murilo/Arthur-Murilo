@@ -6,9 +6,10 @@
 
 <div style="display: inline_block">
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="pandas" src="https://img.shields.io/badge/Pandas-E34F26?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img align="center" alt="amazon-aws" src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img align="center" alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-1572B6?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div><br/>
 
 ![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=devSants&show_icons=true&theme=radical)
