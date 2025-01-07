@@ -14,7 +14,7 @@
 
 ![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=devSants&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSants&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact)
 
 💻 I'm passionate about using AI to solve problems and improve mobile user experiences. I'm eager to expand my skills and contribute to innovative AI projects. 
 
