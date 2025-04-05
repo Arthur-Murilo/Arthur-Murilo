@@ -14,7 +14,7 @@
 🏋️‍♂️ Além de Programador adoro ouvir Musica, Ler e Correr 👟. 
 </p>
 
-## ✨ Projects Highlights ✨
+## ✨ Principais Projetos ✨
 
 <table>
     <tr>
@@ -151,13 +151,19 @@
 <a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 20px" src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" alt="Pandas" height="50" /></a>
 <a href="https://numpy.org/" target="_blank"><img style="margin: 20px" src="https://icon.icepanel.io/Technology/svg/NumPy.svg" alt="Numpy" height="50" /></a>
 <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 20px" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="Scikit-learn" height="50" /></a>
+<a href="https://www.tensorflow.org/?hl=pt-br" target="_blank"><img style="margin: 20px" src="https://icon.icepanel.io/Technology/svg/TensorFlow.svg" alt="TensorFlow" height="50" /></a>
+</div>
 
-### Outros
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/04717455-a35b-4600-83b5-440b58c6a2f5" alt="Docker" height="50" /></a>  
+### Banco de Dados
+
+<div align="start"> 
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/96e07d28-6d16-4ebf-8312-65a601d88660" alt="MySQL" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/650228ec-82a6-4c06-9b0f-617afaac43a6" alt="PostgreSQL" height="50" /></a>
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/14ec5163-e06d-4a53-b75c-a30fb565f86e" alt="AWS" height="50" /></a>  
+</div>
 
+### Cloud
+<a href="https://www.oracle.com/cloud/" target="_blank"><img style="margin: 20px" src="https://icon.icepanel.io/Technology/svg/Oracle.svg" alt="Docker" height="50" /></a>
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 20px" src="https://github.com/user-attachments/assets/14ec5163-e06d-4a53-b75c-a30fb565f86e" alt="AWS" height="50" /></a>  
 <br/>
 
 
