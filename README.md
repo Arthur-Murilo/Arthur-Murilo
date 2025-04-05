@@ -2,16 +2,16 @@
 <img src="https://github.com/user-attachments/assets/5288ff42-7ecf-4e19-a28c-2d0de829e729" align="center" style="width: 100%" />
 </div>
 
-### _<div align="center">Hi I'm Lonz 👋 I'm a full stack developer and entrepreneur who's passionate about creating solutions. </div>_
+### _<div align="center">Olá👋 Eu sou Arthur Santos, Cientista de Dados e apaixonado em desenvolver Modelos de Machine Learning </div>_
 
 <p align="left">
-🎓 Recent Software Engineer graduate at BrainStation.  
+🎓 Estudante de Ciência da Computação.
 <br>
-🧠 I'm a quick learner and love to learn new technologies.  
+🧠 Gosto de Aprender e estou sempre Melhorando meu Conhecimento.
 <br>
-💪 Proficient in both front-end and back-end, bringing creative ideas to code. 
+💪 Foco em Desenvolvimento IA como Modelos de Machine Learning, NLPs e Visão Computacional. 
 <br>
-🏋️‍♂️ Besides programming, I love weightlifting, cooking, and baking👨‍🍳 
+🏋️‍♂️ Além de Programador adoro ouvir Musica, Ler e Correr 👟. 
 </p>
 
 ## ✨ Projects Highlights ✨
