@@ -21,15 +21,12 @@
     <td width="33%" valign="top">
       <div align="center">
         <h3>Slack</h3>
-        <video width="100%" controls autoPlay mute src="https://github.com/user-attachments/assets/f9693bf4-d98b-4b57-9713-093c68104f34"></video>
+        <img width="100%" height="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzsiuAm1lKFCJb0gEab0aAbtgdsYg7s2cS52ENIJworRUvSw6Ynw&s=10&ec=72940545"></video>
         <br>
-        <a href="https://slack-clone-ruddy-nine.vercel.app" target="_blank">
-          <button>View Site</button>
+        <a href="https://github.com/Arthur-Murilo/Cancellation_subscriptions_ML.git" target="_blank">
+          <button>Ver Repositorio</button>
         </a>
-        <a href="=https://github.com/achris-alonzo30/slack-clone" target="_blank">
-          <button>View Repo</button>
-        </a>
-        <p>Slack Clone Website</p>
+        <p>Modelo de Previsão de Cancelamento de Assinatura</p>
       </div>
     </td>
     <td width="33%" valign="top">
