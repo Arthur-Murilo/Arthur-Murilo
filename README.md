@@ -20,7 +20,7 @@
     <tr>
     <td width="33%" valign="top">
       <div align="center">
-        <h3>Slack</h3>
+        <h3>Cancellation_subscriptions_ML</h3>
         <img width="100%" height="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzsiuAm1lKFCJb0gEab0aAbtgdsYg7s2cS52ENIJworRUvSw6Ynw&s=10&ec=72940545"></video>
         <br>
         <a href="https://github.com/Arthur-Murilo/Cancellation_subscriptions_ML.git" target="_blank">
