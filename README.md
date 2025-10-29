@@ -8,7 +8,7 @@ Sou um **Cientista de Dados** com foco profundo em **Engenharia de IA**, especia
 
 Meu objetivo é projetar e construir soluções de IA—como chatbots inteligentes, agentes autônomos e sistemas de recomendação—que resolvem desafios reais de negócios e agregam valor.
 
----
+##
 
 ### 🔗 Conecte-se Comigo
 
@@ -21,7 +21,7 @@ Meu objetivo é projetar e construir soluções de IA—como chatbots inteligent
   </a>
 </p>
 
----
+##
 
 ### 🌱 Atualmente Estou Focando Em...
 
@@ -33,7 +33,7 @@ Estou em um mergulho profundo para dominar a arquitetura e aplicação de Modelo
 * ☁️ Aplicação de serviços de nuvem, especialmente **AWS (SageMaker, S3)**, para treinamento e inferência.
 * 📚 Estudo de arquiteturas de **Redes Neurais (RN)** e os fundamentos matemáticos por trás dos modelos *Transformer* e LLMs.
 
----
+##
 
 ### 🛠️ Meu Arsenal de Tecnologias (Tech Stack)
 
@@ -56,7 +56,7 @@ Estou em um mergulho profundo para dominar a arquitetura e aplicação de Modelo
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
----
+##
 
 ### 📊 Minhas Estatísticas no GitHub
 
