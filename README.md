@@ -1,22 +1,25 @@
-# Olá, meu nome é Arthur Murilo 👋
 
+
+<h1 align="center">Olá, eu sou Arthur Murilo</h1>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h0Z3A1Nnd6c2d6M2NvN3R0dWF3a3N6cDNxZHY2Y2IzYjRicmE0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACmCJo0a3dGv/giphy.gif" width="150px">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=30A9F4&center=true&vCenter=true&width=435&lines=Engenheiro+de+IA;Especialista+em+NLP+%26+GenAI" alt="Typing SVG" />
+  </a>
 </p>
 
 Sou um **Cientista de Dados** com foco profundo em **Engenharia de IA**, especializado em **Processamento de Linguagem Natural (NLP)** e **IA Generativa (GenAI)**.
 
-Meu objetivo é projetar e construir soluções de IA—como chatbots inteligentes, agentes autônomos e sistemas de recomendação—que resolvem desafios reais de negócios e agregam valor.
+Meu objetivo é projetar e construir soluções de IA—como chatbots inteligentes, agentes autônomos e sistemas de recomendação que resolvem desafios reais de negócios e agregam valor.
 
 ##
 
 ### 🔗 Conecte-se Comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/[SEU-LINKEDIN-AQUI]" target="_blank">
+  <a href="https://www.linkedin.com/in/arthursantosml" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:[SEU-EMAIL@AQUI.COM]" target="_blank">
+  <a href="mailto:arthurmsc1811@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
@@ -32,6 +35,15 @@ Estou em um mergulho profundo para dominar a arquitetura e aplicação de Modelo
 * 🛠️ Entendimento dos fundamentos de **MLOps** para versionamento e deploy de modelos com **Docker**.
 * ☁️ Aplicação de serviços de nuvem, especialmente **AWS (SageMaker, S3)**, para treinamento e inferência.
 * 📚 Estudo de arquiteturas de **Redes Neurais (RN)** e os fundamentos matemáticos por trás dos modelos *Transformer* e LLMs.
+
+##
+### 🚀 O que estou construindo
+
+Atualmente, estou aplicando meus estudos em projetos práticos. Isso mostra aos recrutadores que você sabe transformar teoria em código!
+
+* **🤖 Agente de IA com RAG:** Estou desenvolvendo um agente para responder perguntas sobre uma base de conhecimento específica (ex: documentos técnicos) usando **LangChain** e um Vector DB (como ChromaDB ou FAISS).
+* **🧠 Classificador de Sentimentos (NLP):** Treinando um modelo com **Hugging Face Transformers** para analisar e classificar o sentimento de reviews de produtos.
+* **(Em breve) Pipeline de MLOps:** Começando a estruturar um pipeline simples com **Docker** e **GitHub Actions** para automatizar o teste e (futuramente) o deploy de um modelo de Scikit-learn.
 
 ##
 
@@ -60,7 +72,7 @@ Estou em um mergulho profundo para dominar a arquitetura e aplicação de Modelo
 
 ### 📊 Minhas Estatísticas no GitHub
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Arthur-Murilo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Murilo&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arthur-Murilo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arthur-Murilo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
