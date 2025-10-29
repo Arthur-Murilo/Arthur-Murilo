@@ -26,27 +26,6 @@ Meu objetivo é projetar e construir soluções de IA—como chatbots inteligent
 
 ##
 
-### 🌱 Atualmente Estou Focando Em...
-
-Estou em um mergulho profundo para dominar a arquitetura e aplicação de Modelos de Linguagem de Grande Escala (LLMs). Meu foco de estudo e prática inclui:
-
-* 🤖 Construção de **Agentes de IA** e pipelines RAG (Retrieval-Augmented Generation) com **LangChain** e **LangGraph**.
-* 🧠 Especialização em técnicas avançadas de **NLP** usando o ecossistema **Hugging Face** (`transformers`, `datasets`, `tokenizers`).
-* 🛠️ Entendimento dos fundamentos de **MLOps** para versionamento e deploy de modelos com **Docker**.
-* ☁️ Aplicação de serviços de nuvem, especialmente **AWS (SageMaker, S3)**, para treinamento e inferência.
-* 📚 Estudo de arquiteturas de **Redes Neurais (RN)** e os fundamentos matemáticos por trás dos modelos *Transformer* e LLMs.
-
-##
-### 🚀 O que estou construindo
-
-Atualmente, estou aplicando meus estudos em projetos práticos. Isso mostra aos recrutadores que você sabe transformar teoria em código!
-
-* **🤖 Agente de IA com RAG:** Estou desenvolvendo um agente para responder perguntas sobre uma base de conhecimento específica (ex: documentos técnicos) usando **LangChain** e um Vector DB (como ChromaDB ou FAISS).
-* **🧠 Classificador de Sentimentos (NLP):** Treinando um modelo com **Hugging Face Transformers** para analisar e classificar o sentimento de reviews de produtos.
-* **(Em breve) Pipeline de MLOps:** Começando a estruturar um pipeline simples com **Docker** e **GitHub Actions** para automatizar o teste e (futuramente) o deploy de um modelo de Scikit-learn.
-
-##
-
 ### 🛠️ Meu Arsenal de Tecnologias (Tech Stack)
 
 **Linguagens e Fundamentos:**
